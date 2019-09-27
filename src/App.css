@@ -1,0 +1,136 @@
+.navbar {
+    border-bottom:1px solid #cccccc;
+    height: 45px;
+}
+
+.container {
+    padding-top: 70px;
+}
+
+h2 {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: "Gotham", sans-serif;
+}
+
+p {
+    color: black;
+    font-family: "Gotham", sans-serif;
+}        
+         
+.page-content {
+    text-align: center;
+    background: white;
+}       
+
+.app_text {
+    font-size: 30px;
+    padding: 10px;
+    font-family: "Gotham", sans-serif;
+}
+
+.app_text a {
+    color: #F55E78;
+    text-decoration: underline;
+}
+
+.app_icon {
+    color: #F55E78;
+}
+
+#what_dob {
+  font-size: 20px;
+  padding: 10px;
+}
+
+input {
+    text-align: center;
+    border: 2px solid black;
+}
+
+.button {
+  color: black;
+  background-color: #d9d9d9;
+  border: 2px solid black;
+  border-radius: 0px;
+  font-family: "Gotham", sans-serif;
+}
+
+#submit {
+  background-color: #f5e85e99;
+  margin-top: 20px;
+  font-size: 22px;
+  width: 30%;
+  font-size: 18px;
+}
+
+.footer {
+    padding: 25px;
+    font-size: 14px;
+    font-family: "Gotham", sans-serif;
+}
+
+.footer .footer_link {
+    color: #F55E78;
+    text-decoration: underline;
+}
+
+.you_will_be {
+  font-size: 20px;
+  margin-top: -5px;
+}
+
+#today_you_are {
+  font-size: 26px;
+  margin-top: -10px;
+}
+
+#days_old_output {
+    line-height: 90%;
+    font-size: 42px;
+    font-weight: bold;
+    color: #F55E78;
+}
+
+#upcoming_milestones {
+    color: #F55E78;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: "Gotham", sans-serif;
+    padding-top: 10px;
+}
+
+#big_milestone_output, #small_milestone_output, #small_milestone_date_output, #big_milestone_date_output {
+    color: #F55E78;
+    font-weight: bold;
+}
+
+.pad-form {
+    padding-top: 15px;
+}
+
+.unselectable {
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}
+
+.pink-icon {
+    color: #F55E78;
+}
+
+.navbar-brand a {
+    color: black;
+}
+
+.navbar-brand a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.navbar-brand a:active {
+    color: black;
+    text-decoration: none;
+}
